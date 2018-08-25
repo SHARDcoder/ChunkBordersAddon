@@ -1,0 +1,7 @@
+{
+  "name":"Chunk Borders Addon",
+  "version":"1.0.0",
+  "mainClass":"me.shardcoder.addon.ChunkEdgeIndicator",
+  "desc":"Shows Chunk Borders",
+  "overlay":"me.shardcoder.addon.gui.ChunkEdgeOverlay"
+}
